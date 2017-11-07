@@ -5,4 +5,4 @@ def home(request):
     return HttpResponse("Testing Git Commit")
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the polls index.")
+    return HttpResponse("Testing Git Commit")
